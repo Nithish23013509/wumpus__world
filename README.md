@@ -144,3 +144,5 @@ It is assumed that there will always be a safe path that the agent can take to e
 
 <h2>Output</h2>
 <img width="1179" height="414" alt="image" src="https://github.com/user-attachments/assets/b1243388-dd12-4835-90da-20b824536fb1" />
+<h2>Result</h2>
+Hence, the simulation of wumpus world game using propositional logic is inferred successfully.
